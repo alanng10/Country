@@ -176,9 +176,9 @@ The alpha is any alpha.
 
 The park is any park.
 
-The park is any class.
+The class is any class.
 
-The park is any center.
+The center is any center.
 
 Arca word has spell.
 The spell is:
