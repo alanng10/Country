@@ -201,6 +201,9 @@ This Arca word is suit for glob alpha feel.
 
 This Arca word is suit for glob class feel.
 
+Arca human has word.
+The word is Arcan.
+
 Country has define done.
 
 The done is human civil live.
