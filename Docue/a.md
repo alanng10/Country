@@ -164,6 +164,10 @@ Arca word has 1 meaning.
 
 The meaning is glob alpha class.
 
+Arca word has 1 meaning.
+
+The meaning is glob park class.
+
 The glob is any glob.
 
 The entire is any entire.
