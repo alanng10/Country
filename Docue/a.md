@@ -211,7 +211,7 @@ The word is Arcan.
 
 Praca word has spell.
 The spell is:
-"P" for Park Class.
+"P" for Park Alpha.
 "r" for radius total.
 "a" for all time.
 "c" for class kind.
