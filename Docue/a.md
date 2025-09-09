@@ -199,6 +199,49 @@ The spell is:
 
 This Arca word is suit for glob alpha feel.
 
+Arca word has 1 meaning.
+
+The meaning is world entire apply.
+
+Arca word has 1 meaning.
+
+The meaning is world entire able.
+
+Arca word has 1 meaning.
+
+The meaning is world entire all.
+
+Arca word has 1 meaning.
+
+The meaning is world apply center.
+
+Arca word has 1 meaning.
+
+The meaning is world able center.
+
+Arca word has 1 meaning.
+
+The meaning is world all center.
+
+Arca word has 1 meaning.
+
+The meaning is world apply able.
+
+Arca word has 1 meaning.
+
+The meaning is world apply all.
+
+Arca word has 1 meaning.
+
+The meaning is world able all.
+
+Arca word has spell.
+The spell is:
+"A" for Apply Able.
+"r" for radius total.
+"c" for class kind.
+"a" for any class.
+
 Arca word has pronounce.
 Arca word is pronounce same as "arca" in "arcade" in English.
 
