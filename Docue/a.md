@@ -251,9 +251,9 @@ The meaning is park alpha class.
 
 Praca word has spell.
 The spell is:
-"P" for Park Alpha.
+"P" for Park Time.
 "r" for radius total.
-"a" for all time.
+"a" for all galaxy.
 "c" for class kind.
 "a" for any class.
 
