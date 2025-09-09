@@ -2,7 +2,7 @@
 
 Country is govern state in glob.
 
-Country has define name.
+Country has 1 define name.
 
 The name is "Diaga".
 
@@ -127,6 +127,19 @@ Terra word is pronounce same as "terra" in English.
 
 Terra human has word.
 The word is Terran.
+
+Country has 1 define name.
+
+The name is "Arca".
+
+Arca word has 1 meaning.
+
+Arca word has spell.
+The spell is:
+"A" for Alpha All.
+"r" for radius total.
+"c" for class kind.
+"a" for any class.
 
 Country has define done.
 
