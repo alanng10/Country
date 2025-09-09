@@ -199,10 +199,6 @@ The spell is:
 
 This Arca word is suit for glob alpha feel.
 
-This Arca word is suit for glob park feel.
-
-This Arca word is suit for glob class feel.
-
 Arca word has pronounce.
 Arca word is pronounce same as "arca" in "arcade" in English.
 
