@@ -235,6 +235,8 @@ Arca word has 1 meaning.
 
 The meaning is world able all.
 
+Arca meaning is same not tagged.
+
 Arca word has spell.
 The spell is:
 "A" for Apply Able.
