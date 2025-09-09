@@ -279,6 +279,7 @@ This Praca word is suit for park time feel.
 
 Praca word has pronounce.
 Praca word "pra" is pronounce same as "pra" in "pragmatic" in English.
+Praca word "ca" is pronounce same as "ca" in "america" in English.
 
 Country has define done.
 
