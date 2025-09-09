@@ -235,6 +235,18 @@ Arca word has 1 meaning.
 
 The meaning is world able all.
 
+The world is any world.
+
+The entire is any entire.
+
+The apply is any apply.
+
+The able is any able.
+
+The all is any all.
+
+The center is any center.
+
 Arca meaning is same not tagged.
 
 Arca word has spell.
