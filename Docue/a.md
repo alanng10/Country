@@ -142,11 +142,20 @@ The meaning is glob alpha park.
 
 Arca word has 1 meaning.
 
-The meaning is entire alpha.
+The meaning is glob alpha class.
 
 Arca word has 1 meaning.
 
-The meaning is alpha park.
+The meaning is glob alpha center.
+
+Arca word has 1 meaning.
+
+The meaning is glob park center.
+
+Arca word has 1 meaning.
+
+The meaning is glob class center.
+
 
 Arca word has spell.
 The spell is:
