@@ -281,6 +281,9 @@ Praca word has pronounce.
 Praca word "pra" is pronounce same as "pra" in "pragmatic" in English.
 Praca word "ca" is pronounce same as "ca" in "america" in English.
 
+Praca human has word.
+The word is Pracan.
+
 Country has define done.
 
 The done is human civil live.
