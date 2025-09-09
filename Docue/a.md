@@ -199,6 +199,8 @@ The spell is:
 
 This Arca word is suit for glob alpha feel.
 
+This Arca word is suit for glob class feel.
+
 Country has define done.
 
 The done is human civil live.
