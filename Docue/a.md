@@ -255,9 +255,9 @@ The entire is any entire.
 
 The time is any time.
 
-The alpha is any alpha.
+The world is any world.
 
-The class is any class.
+The galaxy is any galaxy.
 
 The center is any center.
 
