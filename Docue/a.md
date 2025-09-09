@@ -261,6 +261,8 @@ The galaxy is any galaxy.
 
 The center is any center.
 
+Praca word is applicable to any park, any entire, any time, any world, any galaxy, any center.
+
 Praca word has spell.
 The spell is:
 "P" for Park Time.
