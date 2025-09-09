@@ -279,6 +279,8 @@ The spell is:
 "c" for class kind.
 "a" for any class.
 
+This Praca word is suit for park time feel.
+
 Country has define done.
 
 The done is human civil live.
