@@ -156,7 +156,6 @@ Arca word has 1 meaning.
 
 The meaning is glob class center.
 
-
 Arca word has spell.
 The spell is:
 "A" for Alpha Park.
