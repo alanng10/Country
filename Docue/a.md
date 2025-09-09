@@ -182,6 +182,14 @@ The center is any center.
 
 Arca word is applicable to any glob, any entire, any alpha, any park, any class, any center.
 
+Arca meaning is not tagged with the existence of specific human race.
+
+Arca meaning is not tagged with the existence of specific human kind.
+
+Arca meaning is not tagged with the existence of specific govern.
+
+Arca meaning is not tagged with the existence of specific outer.
+
 Arca word has spell.
 The spell is:
 "A" for Alpha Park.
