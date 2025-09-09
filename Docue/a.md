@@ -249,6 +249,18 @@ Praca word has 1 meaning.
 
 The meaning is park alpha class.
 
+The park is any park.
+
+The entire is any entire.
+
+The time is any time.
+
+The alpha is any alpha.
+
+The class is any class.
+
+The center is any center.
+
 Praca word has spell.
 The spell is:
 "P" for Park Time.
