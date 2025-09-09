@@ -187,7 +187,9 @@ The spell is:
 "c" for class kind.
 "a" for any class.
 
-This Arca word is suit for alpha park feel.
+This Arca word is suit for glob alpha feel.
+
+Arca word is applicable to any glob, any entire, any alpha, any park, any class, any center.
 
 Country has define done.
 
