@@ -44,7 +44,7 @@ Diaga word has pronounce.
 Diaga word "Dia" is pronounce as "dia" in "dial" in English.
 Diaga word "ga" is pronounce as "gu" in "gum" in English.
 
-Diaga is suit for govern base done.
+This Diaga word is suit for govern base done.
 
 Country has 1 define name.
 
@@ -154,6 +154,8 @@ The spell is:
 "r" for radius total.
 "c" for class kind.
 "a" for any class.
+
+This Arca word is suit for glob all feel.
 
 Country has define done.
 
