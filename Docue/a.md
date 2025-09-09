@@ -134,28 +134,28 @@ The name is "Arca".
 
 Arca word has 1 meaning.
 
-The meaning is alpha all avail.
+The meaning is glob entire alpha.
 
 Arca word has 1 meaning.
 
-The meaning is alpha all has.
+The meaning is glob alpha park.
 
 Arca word has 1 meaning.
 
-The meaning is alpha all class.
+The meaning is entire alpha.
 
 Arca word has 1 meaning.
 
-The meaning is alpha all kind.
+The meaning is alpha park.
 
 Arca word has spell.
 The spell is:
-"A" for Alpha All.
+"A" for Alpha Park.
 "r" for radius total.
 "c" for class kind.
 "a" for any class.
 
-This Arca word is suit for glob all feel.
+This Arca word is suit for alpha park feel.
 
 Country has define done.
 
