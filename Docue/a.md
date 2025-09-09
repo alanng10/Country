@@ -265,7 +265,7 @@ Praca word has spell.
 The spell is:
 "P" for Park Time.
 "r" for radius total.
-"a" for all client.
+"a" for all node.
 "c" for class kind.
 "a" for any class.
 
