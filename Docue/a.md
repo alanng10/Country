@@ -263,6 +263,14 @@ The center is any center.
 
 Praca word is applicable to any park, any entire, any time, any world, any galaxy, any center.
 
+Praca meaning is not tagged with the existence of specific human race.
+
+Praca meaning is not tagged with the existence of specific human kind.
+
+Praca meaning is not tagged with the existence of specific govern.
+
+Praca meaning is not tagged with the existence of specific outer.
+
 Praca word has spell.
 The spell is:
 "P" for Park Time.
