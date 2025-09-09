@@ -180,6 +180,8 @@ The class is any class.
 
 The center is any center.
 
+Arca word is applicable to any glob, any entire, any alpha, any park, any class, any center.
+
 Arca word has spell.
 The spell is:
 "A" for Alpha Park.
@@ -188,8 +190,6 @@ The spell is:
 "a" for any class.
 
 This Arca word is suit for glob alpha feel.
-
-Arca word is applicable to any glob, any entire, any alpha, any park, any class, any center.
 
 Country has define done.
 
