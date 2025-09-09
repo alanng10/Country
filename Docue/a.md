@@ -104,6 +104,8 @@ The spell is:
 "r" for radius time.
 "a" for all class.
 
+This Terra word is suit for country land feel.
+
 Terra word has 1 meaning.
 
 The meaning is One Titan in Terra.
@@ -117,6 +119,8 @@ The spell is:
 "r" for radius total.
 "r" for radius time.
 "a" for all class.
+
+This Terra word is suit for country glob feel.
 
 Terra word has pronounce.
 Terra word is pronounce same as "terra" in English.
