@@ -44,6 +44,8 @@ Diaga word has pronounce.
 Diaga word "Dia" is pronounce as "dia" in "dial" in English.
 Diaga word "ga" is pronounce as "gu" in "gum" in English.
 
+Diaga is suit for govern base done.
+
 Country has 1 define name.
 
 The name is "Terra".
