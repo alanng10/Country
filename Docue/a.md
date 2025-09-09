@@ -277,6 +277,9 @@ The spell is:
 
 This Praca word is suit for park time feel.
 
+Praca word has pronounce.
+Praca word "pra" is pronounce same as "pra" in "pragmatic" in English.
+
 Country has define done.
 
 The done is human civil live.
