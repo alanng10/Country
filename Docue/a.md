@@ -219,11 +219,11 @@ The meaning is park entire time.
 
 Praca word has 1 meaning.
 
-The meaning is park entire alpha.
+The meaning is park entire world.
 
 Praca word has 1 meaning.
 
-The meaning is park entire class.
+The meaning is park entire galaxy.
 
 Praca word has 1 meaning.
 
@@ -231,23 +231,23 @@ The meaning is park time center.
 
 Praca word has 1 meaning.
 
-The meaning is park alpha center.
+The meaning is park world center.
 
 Praca word has 1 meaning.
 
-The meaning is park class center.
+The meaning is park galaxy center.
 
 Praca word has 1 meaning.
 
-The meaning is park time alpha.
+The meaning is park time world.
 
 Praca word has 1 meaning.
 
-The meaning is park time class.
+The meaning is park time galaxy.
 
 Praca word has 1 meaning.
 
-The meaning is park alpha class.
+The meaning is park world galaxy.
 
 The park is any park.
 
