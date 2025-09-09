@@ -209,6 +209,34 @@ Arca word is pronounce same as "arca" in "arcade" in English.
 Arca human has word.
 The word is Arcan.
 
+Country has 1 define name.
+
+The name is "Praca".
+
+Praca word has 1 meaning.
+
+The meaning is park entire time.
+
+Praca word has 1 meaning.
+
+The meaning is park entire alpha.
+
+Praca word has 1 meaning.
+
+The meaning is park entire class.
+
+Praca word has 1 meaning.
+
+The meaning is park time center.
+
+Praca word has 1 meaning.
+
+The meaning is park alpha center.
+
+Praca word has 1 meaning.
+
+The meaning is park class center.
+
 Praca word has spell.
 The spell is:
 "P" for Park Alpha.
