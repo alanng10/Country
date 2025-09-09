@@ -201,6 +201,9 @@ This Arca word is suit for glob alpha feel.
 
 This Arca word is suit for glob class feel.
 
+Arca word has pronounce.
+Arca word is pronounce same as "arca" in "arcade" in English.
+
 Arca human has word.
 The word is Arcan.
 
