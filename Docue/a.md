@@ -256,6 +256,8 @@ The spell is:
 "c" for class kind.
 "a" for any class.
 
+This Arca word is suit for world apply feel.
+
 Arca word has pronounce.
 Arca word is pronounce same as "arca" in "arcade" in English.
 
