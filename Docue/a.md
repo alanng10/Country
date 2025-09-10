@@ -271,7 +271,8 @@ The spell is:
 This Arca word is suit for world apply feel.
 
 Arca word has pronounce.
-Arca word is pronounce same as "arca" in "arcade" in English.
+Arca word "ar" is pronounce same as "ar" in "arcade" in English.
+Arca word "ca" is pronounce same as "ca" in "america" in English.
 
 Arca human has word.
 The word is Arcan.
