@@ -188,6 +188,8 @@ Arca meaning is not tagged with the existence of specific human kind.
 
 Arca meaning is not tagged with the existence of specific govern.
 
+Arca meaning is not tagged with the existence of specific area.
+
 Arca meaning is not tagged with the existence of specific outer.
 
 Arca word has spell.
