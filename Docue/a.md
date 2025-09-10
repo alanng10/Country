@@ -249,7 +249,13 @@ The center is any center.
 
 Arca word is applicable to any world, any entire, any apply, any able, any all, any center.
 
-Arca meaning is same not tagged.
+Arca meaning is not tagged with the existence of specific human race.
+
+Arca meaning is not tagged with the existence of specific human kind.
+
+Arca meaning is not tagged with the existence of specific govern.
+
+Arca meaning is not tagged with the existence of specific outer.
 
 Arca word has spell.
 The spell is:
