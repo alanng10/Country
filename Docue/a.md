@@ -247,6 +247,8 @@ The all is any all.
 
 The center is any center.
 
+Arca word is applicable to any world, any entire, any apply, any able, any all, any center.
+
 Arca meaning is same not tagged.
 
 Arca word has spell.
