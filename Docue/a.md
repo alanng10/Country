@@ -255,6 +255,8 @@ Arca meaning is not tagged with the existence of specific human kind.
 
 Arca meaning is not tagged with the existence of specific govern.
 
+Arca meaning is not tagged with the existence of specific area.
+
 Arca meaning is not tagged with the existence of specific outer.
 
 Arca word has spell.
@@ -331,6 +333,8 @@ Praca meaning is not tagged with the existence of specific human race.
 Praca meaning is not tagged with the existence of specific human kind.
 
 Praca meaning is not tagged with the existence of specific govern.
+
+Praca meaning is not tagged with the existence of specific area.
 
 Praca meaning is not tagged with the existence of specific outer.
 
