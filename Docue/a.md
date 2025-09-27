@@ -367,3 +367,11 @@ Country has define office lang.
 The office lang is English.
 
 Country is 1 time zone only.
+
+Country has define tier.
+
+The tier is life tier.
+
+Country has define leve.
+
+The leve is life total able leve.
