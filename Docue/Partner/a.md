@@ -13,3 +13,5 @@ Country path Endgame in coop with Partner.
 Country share Endgame info with Partner.
 
 Country un negate help Partner done Endgame.
+
+Country un negate help Partner done Melax.
