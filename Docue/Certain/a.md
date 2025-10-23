@@ -8,6 +8,10 @@ Country is un compete for CERTAIN.
 
 Country is un compete for CERTAIN EXFORM.
 
+Country is un compete in outer for CERTAIN.
+
+Country is un compete in outer for CERTAIN EXFORM.
+
 Country done GAIN SHARE for CERTAIN EXFORM.
 
 Country done GAIN SHARE for CERTAIN EXFORM AVAIL.
